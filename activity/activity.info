@@ -1,0 +1,7 @@
+[Activity]
+name = ClassRoomViewer
+activity_version = 4
+bundle_id = org.laptop.ClassRoomViewer
+exec = sugar-activity classroomviewer_activity.ClassRoomViewerActivity
+icon = activity-classroomviewer
+license = GPLv3
